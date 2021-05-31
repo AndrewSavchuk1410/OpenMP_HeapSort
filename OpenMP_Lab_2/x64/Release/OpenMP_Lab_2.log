@@ -1,0 +1,9 @@
+﻿  OpenMP_Lab_2.cpp
+C:\Users\andri\source\repos\OpenMP_Lab_2\OpenMP_Lab_2\OpenMP_Lab_2.cpp(51,19): warning C4552: "+": результат выражения не используется
+C:\Users\andri\source\repos\OpenMP_Lab_2\OpenMP_Lab_2\OpenMP_Lab_2.cpp(81,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+  3 of 26 functions (11.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  OpenMP_Lab_2.vcxproj -> C:\Users\andri\source\repos\OpenMP_Lab_2\x64\Release\OpenMP_Lab_2.exe
